@@ -1,14 +1,14 @@
 Hi there 👋 I'm Marie (she/her),
 
-I graduated from a 9 week intensive coding bootcamp at Le Wagon. There, I studied HTML, CSS, Javascript, Ruby, Ruby on Rails, and SQL. I also did 2 team projects, Overdressed, a clone of AirBnB for costumes, and The Supper Club, which purpose is to help host who wants to organize a dinner party.
+I graduated from a 9 week intensive coding bootcamp at Le Wagon in June. There, I studied HTML, CSS, Javascript, Ruby, Ruby on Rails, and SQL. I also did 2 team projects in Rails: Overdressed, a clone of AirBnB for costumes, and The Supper Club, which purpose is to help host who wants to organize a dinner party.
 
-I aspire to be a frontend developer with strong backend knowledge.
+I aspire to be a skilled full-stack developer.
 
-I'm currently working on several personal projects.
-I'm also deepening my knowledge of Javascript and of the web.
+I'm currently working on personal projects in Javascript.
 
 Feel free to message me if you have questions!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m6rie&layout=compact&langs_count=8)](https://github.com/m6rie/github-readme-stats)
 
 <!--
 **m6rie/m6rie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

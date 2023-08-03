@@ -1,10 +1,8 @@
 Hi there 👋 I'm Marie (she/her),
 
-I graduated from a 9 week intensive coding bootcamp at Le Wagon in June. There, I studied HTML, CSS, Javascript, Ruby, Ruby on Rails, and SQL. I also did 2 team projects in Rails: Overdressed, a clone of AirBnB for costumes, and The Supper Club, which purpose is to help host who wants to organize a dinner party.
+I graduated from a 9 week intensive coding bootcamp at Le Wagon in June 2022. There, I studied HTML, CSS, Javascript, Ruby, Ruby on Rails, and SQL. I also did 2 team projects in Rails: Overdressed, a clone of AirBnB for costumes, and The Supper Club, which purpose is to help host who wants to organize a dinner party.
 
-I aspire to be a skilled full-stack developer.
-
-I'm currently working on personal projects in Javascript.
+I'm currently getting stuck in Python and exploring the world of data analysis.
 
 Feel free to message me if you have questions!
 
